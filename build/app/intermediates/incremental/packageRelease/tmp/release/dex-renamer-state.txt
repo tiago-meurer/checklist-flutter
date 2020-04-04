@@ -1,0 +1,4 @@
+#Fri Apr 03 22:25:02 BRT 2020
+base.0=C\:\\Users\\neuro\\Desktop\\APPS\\CURSO\\app_lista\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
